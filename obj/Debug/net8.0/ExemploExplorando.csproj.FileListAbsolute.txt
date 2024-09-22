@@ -1,0 +1,14 @@
+E:\Usuários\Haryston\Desktop\Cursos linguagens\C# .NET\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.exe
+E:\Usuários\Haryston\Desktop\Cursos linguagens\C# .NET\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.deps.json
+E:\Usuários\Haryston\Desktop\Cursos linguagens\C# .NET\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.runtimeconfig.json
+E:\Usuários\Haryston\Desktop\Cursos linguagens\C# .NET\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.dll
+E:\Usuários\Haryston\Desktop\Cursos linguagens\C# .NET\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.pdb
+E:\Usuários\Haryston\Desktop\Cursos linguagens\C# .NET\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+E:\Usuários\Haryston\Desktop\Cursos linguagens\C# .NET\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.AssemblyInfoInputs.cache
+E:\Usuários\Haryston\Desktop\Cursos linguagens\C# .NET\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.AssemblyInfo.cs
+E:\Usuários\Haryston\Desktop\Cursos linguagens\C# .NET\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.csproj.CoreCompileInputs.cache
+E:\Usuários\Haryston\Desktop\Cursos linguagens\C# .NET\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.dll
+E:\Usuários\Haryston\Desktop\Cursos linguagens\C# .NET\ExemploExplorando\obj\Debug\net8.0\refint\ExemploExplorando.dll
+E:\Usuários\Haryston\Desktop\Cursos linguagens\C# .NET\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.pdb
+E:\Usuários\Haryston\Desktop\Cursos linguagens\C# .NET\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.genruntimeconfig.cache
+E:\Usuários\Haryston\Desktop\Cursos linguagens\C# .NET\ExemploExplorando\obj\Debug\net8.0\ref\ExemploExplorando.dll
