@@ -1,0 +1,20 @@
+[
+  {
+    "DataVenda": "2024-09-25T08:10:11.1713144-03:00",
+    "Id": 1,
+    "Nome_Produto": "chinelo",
+    "Preco": 10.0
+  },
+  {
+    "DataVenda": "2024-09-25T08:10:11.1713144-03:00",
+    "Id": 2,
+    "Produto": "computador",
+    "Preco": 15.0
+  },
+  {
+    "DataVenda": "2024-09-25T08:10:11.1713144-03:00",
+    "Id": 3,
+    "Produto": "software",
+    "Preco": 17.0
+  }
+]

@@ -12,3 +12,7 @@ E:\Usuários\Haryston\Desktop\Cursos linguagens\C# .NET\ExemploExplorando\obj\De
 E:\Usuários\Haryston\Desktop\Cursos linguagens\C# .NET\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.pdb
 E:\Usuários\Haryston\Desktop\Cursos linguagens\C# .NET\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.genruntimeconfig.cache
 E:\Usuários\Haryston\Desktop\Cursos linguagens\C# .NET\ExemploExplorando\obj\Debug\net8.0\ref\ExemploExplorando.dll
+E:\Usuários\Haryston\Desktop\Cursos linguagens\C# .NET\ExemploExplorando\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Usuários\Haryston\Desktop\Cursos linguagens\C# .NET\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.csproj.AssemblyReference.cache
+E:\Usuários\Haryston\Desktop\Cursos linguagens\C# .NET\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.sourcelink.json
+E:\Usuários\Haryston\Desktop\Cursos linguagens\C# .NET\ExemploExplorando\obj\Debug\net8.0\ExemploE.B7F01285.Up2Date

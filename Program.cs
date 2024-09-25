@@ -6,9 +6,68 @@ using System.Security.Cryptography;
 using Newtonsoft.Json;
 
 
-Venda v1 = new Venda(1, "chinelo", 10.0M);
 
-string serializado = JsonConvert.SerializeObject(v1);
+string ConteudoArquivo = File.ReadAllText("Arquivos/Vendas.Json");
+
+List<Venda> ListaVenda = JsonConvert.DeserializeObject<List<Venda>>(ConteudoArquivo); 
+
+foreach(Venda venda in ListaVenda)
+{
+    Console.WriteLine($"Id: {venda.Id}, Produto: {venda.Produto}," +
+                      $"  Preco: {venda.Valor}, Data Atual: {venda.DataVenda.ToString("dd/MM/yyyy HH:mm")}");
+                        
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// //CRIANDO UMA ARQUIVO JSON
+
+// DateTime DataAtual = DateTime.Now;
+// List<Venda> ListaVenda = new List<Venda>();
+
+// Venda v1 = new Venda (1, "chinelo", 10.0M, DataAtual );
+// Venda v2 = new Venda (2, "computador", 15.0M, DataAtual);
+// Venda v3 = new Venda (3, "software", 17.0M, DataAtual);
+
+// ListaVenda.Add(v1);
+// ListaVenda.Add(v2);
+// ListaVenda.Add(v3);
+
+// string serializado = JsonConvert.SerializeObject(ListaVenda, Formatting.Indented);
+
+// File.WriteAllText("Arquivos/vendas.Json", serializado);
+
+// Console.WriteLine(serializado);
 
 
 
